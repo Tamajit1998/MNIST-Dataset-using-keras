@@ -1,2 +1,2 @@
 # MNIST-Dataset-using-keras
-Built-in Mnist Dataset is classification by creating A neural network
+Built-in Mnist Dataset of keras is classification by creating A neural network
